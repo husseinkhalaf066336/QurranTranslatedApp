@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="@dimen/_16sdp"
+    app:cardElevation="@dimen/_16sdp"
+    android:padding="@dimen/_16sdp"
+    android:layout_margin="@dimen/_16sdp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:background="@drawable/ic_1571972_abstract_basic_geometric_shape_icon"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            >
+            <TextView
+                android:id="@+id/shrah_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:textSize="@dimen/_18ssp"
+                android:textColor="@color/white"
+                android:text="1"/>
+
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_weight="2"
+            android:orientation="vertical"
+            android:layout_marginEnd="@dimen/_14sdp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/english_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="fatha"
+            android:textSize="@dimen/_18ssp"
+            android:textStyle="bold"
+            android:textColor="@color/black"/>
+        <TextView
+            android:id="@+id/totalAya"
+            android:text="7 aya"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"/>
+        </LinearLayout>
+
+        <TextView
+        android:id="@+id/arabic_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/_20ssp"
+            android:text="fatha"
+            android:layout_marginEnd="@dimen/_14sdp"
+            android:textStyle="bold"
+        android:textColor="@color/black"/>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

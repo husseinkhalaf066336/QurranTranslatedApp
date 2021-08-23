@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="search">Search in shurah </string>
+    <string name="ic_settings">Setting</string>
+
+
+    <!--    fragment_settings-->
+    <string name="fragment_dialog_Choose_language">Choose the language of translation</string>
+    <string name="fragment_dialog_English">English</string>
+    <string name="fragment_dialog_French">French</string>
+    <string name="fragment_dialog_German">German</string>
+    <string name="fragment_dialog_Turkish">Turkish</string>
+    <string name="fragment_dialog_Spanish">Spanish</string>
+    <string name="fragment_dialog_hindi">Hindi </string>
+    <string name="fragment_dialog_chinese">chinese </string>
+    <string name="fragment_dialog_Albanian">Albanian </string>
+    <string name="fragment_dialog_Indonesian">Indonesian </string>
+    <string name="fragment_dialog_Persian">Persian </string>
+    <string name="fragment_dialog_urdu">Urdu</string>
+    <string name="fragment_dialog_btn_save">save</string>
+
+</resources>
