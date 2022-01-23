@@ -13,7 +13,7 @@ QurranTranslatedApp is an application that displays the Quran translated into ma
 - [Material Design](https://material.io/design) - Design System
 - [Splash Screen](https://developer.android.com/reference/android/window/SplashScreen)
 - [Lottie](https://github.com/airbnb/lottie-android) - Animation
-- [Google News API] (https://newsapi.org/s/google-news-api)
+- [QuranEnc API](https://quranenc.com/en/home/api/)
 - [intuit](https://github.com/intuit/sdp)
 - [viewpager2](https://developer.android.com/guide/navigation/navigation-swipe-view-2)
 - [DeffUtil with  RecyclerView](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView)
