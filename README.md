@@ -19,6 +19,9 @@ QurranTranslatedApp is an application that displays the Quran translated into ma
 - [DeffUtil with  RecyclerView](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView)
 - [SearchView](https://developer.android.com/reference/android/widget/SearchView)
 
+##APK
+- [To Download an APK](https://github.com/husseinkhalaf066336/QurranTranslatedApp/blob/master/app/release/app-release.apk)
+
 ## Screenshot
 
 ![Screenshot_٢٠٢٢٠١٢٣-٠٤٣٩٤١](https://user-images.githubusercontent.com/88562339/150711170-b1f73efb-9f6c-49ed-932d-4c629cb692e3.jpg)
